@@ -1,4 +1,4 @@
-// scripts.js
+// First script scripts.js
 
 var name = prompt('Enter Your name');
 alert('Hello, ' + name);
